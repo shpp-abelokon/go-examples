@@ -1,0 +1,8 @@
+# Visual Studio Code project files
+.vscode
+
+# PHPStorm IDE project files
+.idea
+
+# Netbeans IDE project files
+/nbproject/
